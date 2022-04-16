@@ -1,0 +1,7 @@
+main.c:439:13:MX_DMA_Init	16	static
+main.c:121:8:get_volt_mult	16	static
+main.c:293:6:SystemClock_Config	80	static,ignoring_inline_asm
+main.c:179:5:main	64	static,ignoring_inline_asm
+main.c:480:6:HAL_ADC_ConvHalfCpltCallback	0	static
+main.c:485:6:HAL_ADC_ConvCpltCallback	16	static
+main.c:514:6:Error_Handler	0	static,ignoring_inline_asm
